@@ -1,0 +1,16 @@
+gradio
+python-dotenv
+PyMuPDF
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+sentence-transformers
+faiss-cpu
+pyyaml
+langserve
+uvicorn
+python-docx
+numpy
+ragas
+datasets

@@ -1,0 +1,20 @@
+env:
+  dotenv_path: "pass.env"
+  api_key_name: "API_KEY"
+
+chunking:
+  chunk_size: 512
+  chunk_overlap: 50
+  separators: ["\n\n", "\n", ".", " ", ""]
+  add_start_index: true
+
+embeddings:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+
+retrieval:
+  top_k: 4
+
+llm:
+  provider: "groq"
+  model: "llama-3.1-8b-instant"
+  temperature: 0

@@ -1,0 +1,82 @@
+[
+    {
+        "question": "When was Tips Hindawi University founded?",
+        "ground_truth": "Tips Hindawi University was founded in 1963.",
+        "expected_contexts": [
+            "Founded in 1963"
+        ]
+    },
+    {
+        "question": "What are the faculties at THU?",
+        "ground_truth": "The faculties are: Faculty of Engineering, Faculty of Medicine and Health Sciences, Faculty of Business and Economics, Faculty of Arts and Humanities, Faculty of Law and International Studies, Faculty of Computer and Information Sciences, and Faculty of Architecture and Design.",
+        "expected_contexts": [
+            "Faculty of Engineering",
+            "Faculty of Medicine",
+            "Faculty of Business",
+            "Faculty of Computer"
+        ]
+    },
+    {
+        "question": "What is the annual tuition fee for undergraduate students?",
+        "ground_truth": "The annual tuition fee for undergraduate students ranges from $5,000 to $8,000.",
+        "expected_contexts": [
+            "Undergraduate: $5,000 - $8,000"
+        ]
+    },
+    {
+        "question": "Who is the president of the university?",
+        "ground_truth": "The president of the university is Dr. Nabil Al-Khatib.",
+        "expected_contexts": [
+            "President: Dr. Nabil Al-Khatib"
+        ]
+    },
+    {
+        "question": "What is the annual research budget?",
+        "ground_truth": "The annual research budget is $12 million.",
+        "expected_contexts": [
+            "Research budget: $12 million annually"
+        ]
+    },
+    {
+        "question": "What are the admission requirements for undergraduate programs?",
+        "ground_truth": "Undergraduate admission requires a high school GPA of 85% or equivalent, English proficiency test (IELTS 6.0 or TOEFL 80), and an entrance interview for certain programs.",
+        "expected_contexts": [
+            "High school GPA of 85%",
+            "IELTS 6.0 or TOEFL 80"
+        ]
+    },
+    {
+        "question": "What student clubs are available at THU?",
+        "ground_truth": "Available clubs include THU Debate Society, Robotics Club, Arabic Calligraphy Circle, Environmental Awareness Network, and International Students Union.",
+        "expected_contexts": [
+            "Debate Society",
+            "Robotics Club",
+            "Arabic Calligraphy"
+        ]
+    },
+    {
+        "question": "What research centers exist at the university?",
+        "ground_truth": "The university has the Center for Renewable Energy Research, Artificial Intelligence and Robotics Lab, and Public Policy and Development Institute.",
+        "expected_contexts": [
+            "Center for Renewable Energy Research",
+            "Artificial Intelligence and Robotics Lab"
+        ]
+    },
+    {
+        "question": "How large is the main campus?",
+        "ground_truth": "The main campus spans over 300 acres and houses 12 academic buildings, a central library with over 1 million volumes, four residence halls, a medical center, sports complex and stadium, and an innovation and entrepreneurship hub.",
+        "expected_contexts": [
+            "spans over 300 acres",
+            "12 academic buildings"
+        ]
+    },
+    {
+        "question": "Name some notable alumni of THU.",
+        "ground_truth": "Notable alumni include Lina Darwish (UN Youth Ambassador), Hassan Joudeh (CEO of ArabTech), and Noura Saleh (award-winning novelist).",
+        "expected_contexts": [
+            "Lina Darwish",
+            "Hassan Joudeh",
+            "Noura Saleh"
+        ]
+    }
+]
